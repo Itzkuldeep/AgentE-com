@@ -1,0 +1,5 @@
+# Use Open AI with key
+provider: autogen_ext.models.openai.OpenAIChatCompletionClient
+config:
+  model: gpt-4o
+  api_key: "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"
