@@ -1,0 +1,10 @@
+aiofiles
+PyYAML
+autogen
+autogen-agentchat
+fastapi
+autogen-ext
+plivo
+langchain
+langchain-community
+langchain-openai
